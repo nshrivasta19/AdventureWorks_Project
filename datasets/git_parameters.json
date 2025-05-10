@@ -1,0 +1,52 @@
+[
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Calendar.csv",
+        "parameter_dynamic_folder" : "Calender",
+        "parameter_dynamic_file" : "Calender.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Customers.csv",
+        "parameter_dynamic_folder" : "Customers",
+        "parameter_dynamic_file" : "Customers.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Product_Categories.csv",
+        "parameter_dynamic_folder" : "Product_Categories",
+        "parameter_dynamic_file" :  "Product_Categories.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Product_Subcategories.csv",
+        "parameter_dynamic_folder" : "Product_Subcategories",
+        "parameter_dynamic_file" : "Product_Subcategories.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Products.csv",
+        "parameter_dynamic_folder" : "Products",
+        "parameter_dynamic_file" : "Products.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Returns.csv",
+        "parameter_dynamic_folder" : "Returns",
+        "parameter_dynamic_file" : "Returns.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Sales_2015.csv",
+        "parameter_dynamic_folder" : "Sales_2015",
+        "parameter_dynamic_file" : "Sales_2015.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Sales_2016.csv",
+        "parameter_dynamic_folder" : "Sales_2016",
+        "parameter_dynamic_file" : "Sales_2016.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Sales_2017.csv",
+        "parameter_dynamic_folder" : "Sales_2017",
+        "parameter_dynamic_file" :  "Sales_2017.csv"
+    },
+    { 
+        "parameter_dynamic_url" : "nshrivasta19/AdventureWorks_Project/refs/heads/main/datasets/AdventureWorks_Territories.csv",
+        "parameter_dynamic_folder" : "Territories",
+        "parameter_dynamic_file" : "Territories.csv"
+    }
+]
